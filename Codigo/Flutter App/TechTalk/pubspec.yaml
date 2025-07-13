@@ -1,0 +1,38 @@
+name: guante_comunicador_app
+description: App para controlar y visualizar el guante comunicador.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  permission_handler: ^11.3.1
+  flutter_bluetooth_serial: ^0.4.0
+  flutter_svg: ^2.0.7
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1  
+  hive_generator: ^2.0.0
+  build_runner: ^2.3.0
+  flutter_test:
+    sdk: flutter
+  google_fonts: ^6.2.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+
+flutter:
+  assets:
+    - assets/images/unal_logo.png
+  uses-material-design: true
+
