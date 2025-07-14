@@ -1,2 +1,2 @@
 # TechTalk
-A glove that, through combinations of fingers, emits predefined phrases or words in the form of sounds. It also has an application designed in Flutter that allows the user to customize the device's profiles and combinations, among many other things...
+Un guante que, mediante la combinación de dedos, emite frases o palabras predefinidas en forma de sonido. También cuenta con una aplicación diseñada en Flutter que permite al usuario personalizar los perfiles y combinaciones del dispositivo, entre otras cosas.
