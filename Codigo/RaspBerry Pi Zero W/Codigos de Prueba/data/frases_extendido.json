@@ -1,0 +1,19 @@
+{
+  "perfil1": {
+    "1000N": "Futuros Avances",
+    "0100N": "Somos TechTalk"
+  },
+  "perfil2": {
+    "1000N": "Hola que tal",
+    "0100N": "Hasta Luego que esten bien",
+    "0001N": "Universidad Nacional"
+  },
+  "perfil3": {
+    "1000N": "Indice Neutro",
+    "0100N": "Medio Neutro",
+    "0010N": "Anular Neutro",
+    "0001N": "Meñique Neutro"
+  }
+
+}
+
